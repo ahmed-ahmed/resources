@@ -1,0 +1,30 @@
+# resources
+
+## icons
+ - http://simplelineicons.com/
+ - https://pagellapolitica.it/static/plugins/line-icons/
+ - http://bootstrapmaster.com/live/real-static/icons-simple-line-icons.html
+ - http://zurb.com/playground/foundation-icon-fonts-3
+ - https://glyphsearch.com/
+ - http://keenthemes.com/preview/metronic/theme/admin_1/ui_icons.html
+ - http://fizzed.com/oss/font-mfizz
+ - https://github.com/WordPress/dashicons
+ - http://themify.me/themify-icons
+ - https://octicons.github.com/
+ - http://streamlineicons.com/free-icons.html
+ - http://themes-pixeden.com/font-demos/7-stroke/index.html
+ - https://freebiesbug.com/psd-freebies/80-stroke-icons-psd-ai-webfont/
+ - http://icon-works.com/index.html
+ - http://vorillaz.github.io/devicons/#/main
+ - http://themes-pixeden.com/font-demos/line/documentation.html
+ - http://themes-pixeden.com/font-demos/7-stroke/
+ - http://devnet.kentico.com/docs/icon-list/index.html
+ - http://www.entypo.com/
+ - http://icofont.com/icons/
+ - https://icons8.com/web-app/89/line-chart
+ - https://shiny.rstudio.com/reference/shiny/latest/icon.html
+ - https://linearicons.com/free
+ - http://ionicons.com/
+ - https://icomoon.io/app/#/select
+ - https://www.quora.com/Are-there-any-good-CSS-icons-library-like-Font-Awesome
+ 
